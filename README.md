@@ -1,1 +1,3 @@
 # Pink-Heart-Rescue-Website
+
+Pink Heart Rescue is a dog adoption clinic that takes in dogs with the Double Merle mutation, which causes the dogs to have white fur and also makes them more susceptible to other diseases. Most of these dogs are deaf and blind as well. My team and I developed an entire website and database for the clinic using HTML, CSS, PHP, SQL, and some JavaScript. The rescue primarily conducted all of their business on paper forms, so we made the same forms accessible online, as well as making a database to keep track of all of the dogs, dogs with certain diseases, and information on people adopting the dogs. The site allows for the people who run the clinic to view adoption applications and accept or deny them seamlessly. 
